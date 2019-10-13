@@ -3,6 +3,31 @@
 <JUCERPROJECT id="iQ5sgA" name="InitialDelay" projectType="audioplug" jucerVersion="5.4.3"
               pluginName="Initial:Delay" pluginDesc="Initial:Delay" pluginAUExportPrefix="Initial_DelayAU">
   <MAINGROUP id="EL7c0q" name="InitialDelay">
+    <GROUP id="{7EFB86AA-79E1-9443-1A3F-1196EBF89B6B}" name="Resources ">
+      <FILE id="fcAA4J" name="InitialDAnimation1.png" compile="0" resource="1"
+            file="Animation/InitialDAnimation1.png"/>
+      <FILE id="TTS3a9" name="InitialDAnimation3.png" compile="0" resource="1"
+            file="Animation/InitialDAnimation3.png"/>
+      <FILE id="Xwmjnz" name="InitialDAnimation2.png" compile="0" resource="1"
+            file="Animation/InitialDAnimation2.png"/>
+      <FILE id="ZqoVv2" name="InitialDAnimation4.png" compile="0" resource="1"
+            file="Animation/InitialDAnimation4.png"/>
+      <FILE id="djsEUV" name="InitialDAnimation5.png" compile="0" resource="1"
+            file="C:/Users/Ethan Punter/Desktop/Vst _Backgrounds/Rain Animation/InitialDAnimation5.png"/>
+      <FILE id="Er1Qaa" name="InitialDAnimation6.png" compile="0" resource="1"
+            file="C:/Users/Ethan Punter/Desktop/Vst _Backgrounds/Rain Animation/InitialDAnimation6.png"/>
+      <FILE id="DTJcPT" name="InitialDAnimation7.png" compile="0" resource="1"
+            file="C:/Users/Ethan Punter/Desktop/Vst _Backgrounds/Rain Animation/InitialDAnimation7.png"/>
+      <FILE id="alEl0Y" name="InitialDAnimation8.png" compile="0" resource="1"
+            file="Animation/InitialDAnimation8.png"/>
+      <FILE id="Rm8ZWv" name="CyberDrive.png" compile="0" resource="1" file="CyberDrive.png"/>
+      <FILE id="gtL2d8" name="DriveKnob.png" compile="0" resource="1" file="DriveKnob.png"/>
+      <FILE id="dyWUAS" name="CyberKnobTime.png" compile="0" resource="1"
+            file="C:/Users/Ethan Punter/Downloads/Dials/CyberKnobTime.png"/>
+      <FILE id="N9Cjgy" name="InitialD.png" compile="0" resource="1" file="InitialD.png"/>
+      <FILE id="ypTiEr" name="Turbo.png" compile="0" resource="1" file="Turbo.png"/>
+      <FILE id="anYZfz" name="CyberKnob.png" compile="0" resource="1" file="CyberKnob.png"/>
+    </GROUP>
     <GROUP id="{29B95A44-71CC-307D-A255-8C6BC19F2F61}" name="Source">
       <FILE id="o7I9ar" name="DelayModule.cpp" compile="1" resource="0" file="Source/DelayModule.cpp"/>
       <FILE id="XYWklx" name="PluginProcessor.cpp" compile="1" resource="0"
@@ -106,6 +131,7 @@
   </MODULES>
   <LIVE_SETTINGS>
     <OSX/>
+    <WINDOWS/>
   </LIVE_SETTINGS>
   <JUCEOPTIONS JUCE_VST3_CAN_REPLACE_VST2="0" JUCE_STRICT_REFCOUNTEDPOINTER="1"/>
 </JUCERPROJECT>
